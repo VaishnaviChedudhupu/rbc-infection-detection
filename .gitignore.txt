@@ -1,0 +1,58 @@
+# ── Python ────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ───────────────────────────────────
+venv/
+env/
+.venv/
+ENV/
+
+# ── Trained model files (large binaries) ──────────────────
+models/*.h5
+models/*.pkl
+models/*.pb
+models/saved_model/
+
+# ── Generated outputs ──────────────────────────────────────
+outputs/*.png
+outputs/*.csv
+outputs/*.jpg
+
+# ── Dataset (too large for Git) ────────────────────────────
+dataset/Parasitized/
+dataset/Uninfected/
+
+# ── Jupyter ────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── IDE ────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Logs ──────────────────────────────────────────────────
+*.log
+error.log
+error2.log
+
+# ── Streamlit cache ────────────────────────────────────────
+.streamlit/
+
+# ── TensorFlow cache ───────────────────────────────────────
+*.npy
+*.npz
+CACHEDIR.TAG

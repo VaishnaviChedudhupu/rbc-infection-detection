@@ -1,0 +1,11 @@
+# Place sample RBC images here for quick prediction testing.
+#
+# Usage:
+#   python predict.py --image test_images/your_cell.png --model models/cnn_model.h5
+#   python predict.py --folder test_images/ --model models/cnn_model.h5 --batch
+#
+# Accepted formats: .jpg  .jpeg  .png  .bmp  .tiff
+#
+# You can grab a few sample images directly from the dataset:
+#   cp dataset/Parasitized/some_cell.png  test_images/infected_sample.png
+#   cp dataset/Uninfected/some_cell.png   test_images/healthy_sample.png

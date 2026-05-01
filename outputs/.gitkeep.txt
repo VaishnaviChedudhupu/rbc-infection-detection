@@ -1,0 +1,15 @@
+# This folder stores all generated output files after training and evaluation.
+#
+#   training_history_cnn.png         — Accuracy & Loss curves (Custom CNN)
+#   training_history_mobilenet.png   — Accuracy & Loss curves (MobileNetV2)
+#   confusion_matrix_cnn.png         — Confusion matrix heatmap (CNN)
+#   confusion_matrix_mobilenet.png   — Confusion matrix heatmap (MobileNetV2)
+#   confusion_matrix_dtc.png         — Confusion matrix heatmap (Decision Tree)
+#   roc_curve_cnn.png                — ROC AUC curve (CNN)
+#   roc_curve_mobilenet.png          — ROC AUC curve (MobileNetV2)
+#   sample_predictions_cnn.png       — Grid of sample predictions (CNN)
+#   sample_predictions_mobilenet.png — Grid of sample predictions (MobileNetV2)
+#   model_comparison.png             — Side-by-side model comparison bar chart
+#   batch_predictions.csv            — CSV of batch prediction results
+#
+# These files are excluded from Git via .gitignore.

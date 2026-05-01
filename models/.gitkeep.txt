@@ -1,0 +1,11 @@
+# This folder stores trained model files.
+# Files saved here after running train.py:
+#
+#   cnn_model.h5            — Custom CNN weights (best val_accuracy)
+#   mobilenet_model.h5      — MobileNetV2 weights (best val_accuracy)
+#   dtc_model.pkl           — Decision Tree (scikit-learn)
+#   cnn_history.pkl         — CNN training history dict
+#   mobilenet_history.pkl   — MobileNetV2 training history dict
+#
+# These files are excluded from Git via .gitignore (large binaries).
+# Download pre-trained weights from the project release page if needed.
