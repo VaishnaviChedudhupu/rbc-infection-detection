@@ -252,14 +252,5 @@ As described in project document Chapter 10:
 
 ---
 
-## 📚 References
 
-1. He et al., "Deep Residual Learning for Image Recognition," CVPR 2016
-2. Simonyan & Zisserman, "Very Deep CNNs for Large-Scale Image Recognition," ICLR 2015
-3. LeCun, Bengio & Hinton, "Deep Learning," Nature 2015
-4. Rajkomar et al., "Machine Learning in Medicine," NEJM 2019
-5. Krizhevsky et al., "ImageNet Classification with Deep CNNs," NeurIPS 2012
-6. Litjens et al., "Survey on Deep Learning in Medical Image Analysis," MedIA 2017
-
----
 
