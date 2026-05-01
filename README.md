@@ -263,14 +263,3 @@ As described in project document Chapter 10:
 
 ---
 
-## 👩‍💻 Author
-
-**C. Vaishnavi**  
-Roll No: 22R91A7325  
-B.Tech — Artificial Intelligence & Machine Learning  
-Teegala Krishna Reddy Engineering College (TKREC), Hyderabad  
-Guide: Mrs. G. Mounika, Assistant Professor  
-
----
-
-*Built as Major Project for partial fulfillment of B.Tech degree, affiliated to JNTUH.*
