@@ -1,8 +1,5 @@
 # 🔬 AI-Enhanced Microscopic Image Classification for RBC Infection
 
-> **B.Tech Major Project — Artificial Intelligence & Machine Learning**  
-> C. Vaishnavi (22R91A7325) | TKREC, Hyderabad | 2022–2026  
-> Guide: Mrs. G. Mounika, Assistant Professor, Dept. of AI & ML
 
 ---
 
